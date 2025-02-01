@@ -11,7 +11,7 @@ This project demonstrates real-time face detection using OpenCV and a Haar Casca
 
 1. Clone the repository:
     ```sh
-    git clone <repository-url>
+    git clone https://github.com/rankirat-singh/Face-Detection.git
     cd Face Detection
     ```
 
